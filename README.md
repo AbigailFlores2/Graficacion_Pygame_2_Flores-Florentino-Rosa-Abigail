@@ -20,4 +20,5 @@
   - `sesion6_ej3.py`: Evitar obstáculos
   - `sesion6_mini.py`: Juego con nave, puntos y obstáculos
   - Recursos: `nave.png`
+  - 
 
